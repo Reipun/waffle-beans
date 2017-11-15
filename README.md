@@ -2,7 +2,7 @@
 
 #### Table of Contents
 [Logo](#Logo)  
-
+**[Typography](#Typography)**<br>
 2. [Colors](#Colors)
 3. [Typography](#Typography)
 4. [Screenshots](#Screenshots)
