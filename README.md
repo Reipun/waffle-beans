@@ -1,4 +1,4 @@
-# ![Edge Mark](waffle-beans/Edge-Final-Logo_Logo-GreeneandNavy.png) Edge Brand Guide
+# ![Edge Mark](https://raw.githubusercontent.com/Reipun/waffle-beans/master/Edge-Final-Logo_Logo-GreeneandNavy.png) Edge Brand Guide
 
 ### Table of Contents
 1. [Logo](#logo)
