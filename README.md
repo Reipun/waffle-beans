@@ -4,8 +4,8 @@
 1. [Logo](#Logo)
 2. [Colors](#Colors)
 3. [Typography](#Typography)
-4. [Screenshots] (#Screenshots)
-5. [Photography] (#Photography)
+4. [Screenshots](#Screenshots)
+5. [Photography](#Photography)
 
 ## Logo
 
