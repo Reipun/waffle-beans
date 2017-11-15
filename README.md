@@ -1,10 +1,11 @@
 # Edge Brand Guide
 
 #### Table of Contents
-1. [Logo](#Logo)
+[Logo](#Logo)  
+
 2. [Colors](#Colors)
 3. [Typography](#Typography)
-4. [Screenshots](## Screenshots)
+4. [Screenshots](#Screenshots)
 5. [Photography](#Photography)
 
 ## Logo
