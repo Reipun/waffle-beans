@@ -18,7 +18,7 @@
 
 
 ### Table of Contents
-[Logo](#Logo)  
+[Logo](#Logo)<br>
 1. [Typography](#Typography)
 2. [Colors](#Colors)
 3. [Typography](#Typography)
