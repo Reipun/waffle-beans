@@ -1,4 +1,4 @@
-# Edge Brand Guide
+# ![Edge Mark](waffle-beans/Edge-Final-Logo_Logo-GreeneandNavy.png) Edge Brand Guide
 
 ### Table of Contents
 1. [Logo](#logo)
