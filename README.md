@@ -1,7 +1,8 @@
-# waffle-beans
+# Edge Brand Guide
 
-## waffle-beans subhead test
+## Table of Contents
+1. [Logo](#Logo)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
 
-### waffle-beans sub-subhead test
-
-waffle-beans/Edge-Final-Logo_Logo-GreeneandNavy.png
+## Logo
