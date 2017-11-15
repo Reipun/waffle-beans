@@ -1,28 +1,11 @@
 # Edge Brand Guide
 
 ### Table of Contents
-**[Logo](#logo)**<br>
-**[Usage Instructions](#usage-instructions)**<br>
-**[Troubleshooting](#troubleshooting)**<br>
-**[Compatibility](#compatibility)**<br>
-**[Notes and Miscellaneous](#notes-and-miscellaneous)**<br>
-**[Building the Extension Bundles](#building-the-extension-bundles)**<br>
-**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
-
-## Installation Instructions
-
-
-
-
-
-
-
-### Table of Contents
-1. [Typography](#Typography)
-2. [Colors](#Colors)
-3. [Typography](#Typography)
-4. [Screenshots](#Screenshots)
-5. [Photography](#Photography)
+1. [Logo](#logo)
+2. [Colors](#colors)
+3. [Typography](#typography)
+4. [Screenshots](#screenshots)
+5. [Photography](#photography)
 
 ## Logo
 
