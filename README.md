@@ -3,7 +3,9 @@
 #### Table of Contents
 1. [Logo](#Logo)
 2. [Colors](#Colors)
-3. [Third Example](#third-example)
+3. [Typography](#Typography)
+4. [Screenshots] (#Screenshots)
+5. [Photography] (#Photography)
 
 ## Logo
 
@@ -36,6 +38,18 @@ Brand Font Families:
 
 
 Mobile App Font Families:
+
+
+
+## Screenshots
+
+Brand Font Families:
+
+
+Mobile App Font Families:
+
+
+## Photography
 
 
 
