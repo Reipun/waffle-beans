@@ -1,7 +1,7 @@
 # Edge Brand Guide
 
 ### Table of Contents
-**[Installation Instructions](#installation-instructions)**<br>
+**[Logo](#Logo)**<br>
 **[Usage Instructions](#usage-instructions)**<br>
 **[Troubleshooting](#troubleshooting)**<br>
 **[Compatibility](#compatibility)**<br>
