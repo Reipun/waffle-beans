@@ -13,7 +13,7 @@
 These are the primary logos that shuould be used across product and marketing. If not possible due to background colors or other reasons, one of the other logo variations below should be used to ensure brand consistency.
 
 | Mint + Navy logo—use for light bg | Mint + White logo—use for dark bg |
-| ------------- |:-------------:|
+| :-------------: |:-------------:|
 | ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_DarkBg.png) |
 | Download Hi-Res Logo | Download Hi-Res Logo |
 
