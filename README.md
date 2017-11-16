@@ -12,6 +12,12 @@
 ### Edge Master Logo:
 These are the primary logos that shuould be used across product and marketing. If not possible due to background colors or other reasons, one of the other logo variations below should be used to ensure brand consistency.
 
+| Tables        | Are           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
 
 | Use for light background | Use for dark background |
 | ------------- |:-------------:|
