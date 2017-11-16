@@ -16,7 +16,7 @@ Use Mint + Navy when used on white or light background:
 # ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_MintNavy.png)
 
 Use Mint + White when used on dark background:
-# ![Master Logo White and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_MintNavy.png)
+# ![Master Logo White and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_MintWhite.png)
 
 
 
