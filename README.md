@@ -18,7 +18,7 @@ These are the primary logo variations that should be used across product and mar
 
 
 #### Edge Secondary Logo:
-Use secondary logos over background colors that clash. 
+Use secondary logos if primary logos are over background colors that clash. 
 
 | Navy | White |
 | :-------------: |:-------------:|
@@ -30,7 +30,7 @@ Use secondary logos over background colors that clash.
 
 | Mint | Navy | White |
 | :-------------: |:-------------:|:-------------:|
-| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Mark-Mint.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White-.png)
+| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Mark-Mint.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White.png)
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 #### Edge App Icon:
