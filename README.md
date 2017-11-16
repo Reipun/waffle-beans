@@ -22,7 +22,7 @@ These are the primary logos that shuould be used across product and marketing. I
 
 | Mint | Navy | White |
 | :-------------: |:-------------:|:-------------:|
-| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Mark-White-.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White-.png)
+| ![Master Logo Mint and Navy](Mark-Mint) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White-.png)
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 
