@@ -4,7 +4,9 @@
 1. [Logo](#logo)
 2. [Colors](#colors)
 3. [Screenshots](#screenshots)
+4. [Banners](#banners)
 5. [People](#people)
+6. [Edge Social Links](#edge-social-links)
 
 ## Logo
 
@@ -31,7 +33,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | Mint | Navy | White |
 | :-------------: |:-------------:|:-------------:|
 | ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Mark-Mint.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White.png)
-| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
+| [Download Hi-Res Mark](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Mark](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Mark](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 ### Edge App Icon:
 
@@ -73,15 +75,12 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ## Screenshots
 
-Brand Font Families:
-
-
-Mobile App Font Families:
-
+## banners
 
 ## People
-
 #### People at Edge:
+
+## Edge Social Links
 
 
 
