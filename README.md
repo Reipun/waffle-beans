@@ -3,9 +3,8 @@
 ### Table of Contents
 1. [Logo](#logo)
 2. [Colors](#colors)
-3. [Typography](#typography)
-4. [Screenshots](#screenshots)
-5. [Photography](#photography)
+3. [Screenshots](#screenshots)
+5. [People](#people)
 
 ## Logo
 
@@ -54,14 +53,6 @@ Grays:
 Color use:
 
 
-## Typography
-
-Brand Font Families:
-
-
-Mobile App Font Families:
-
-
 
 ## Screenshots
 
@@ -71,8 +62,9 @@ Brand Font Families:
 Mobile App Font Families:
 
 
-## Photography
+## People
 
+#### People at Edge:
 
 
 
