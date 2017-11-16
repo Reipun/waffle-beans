@@ -71,10 +71,6 @@ Use secondary logos if primary logos are over background colors that clash.
 
 
 
-Color use:
-
-
-
 ## Screenshots
 
 Brand Font Families:
