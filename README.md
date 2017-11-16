@@ -20,7 +20,7 @@ Use Mint + White when used on dark background:
 
 
 
-| Tables        | Are           | Cool  |
+| For light background        | For dark background           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
