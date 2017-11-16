@@ -10,12 +10,22 @@
 ## Logo
 
 #### Edge Master Logo:
-These are the primary logos that shuould be used across product and marketing. If not possible due to background colors or other reasons, one of the other logo variations below should be used to ensure brand consistency.
+These are the primary logos that should be used across product and marketing. If not possible due to background colors or other reasons, one of the other logo variations below should be used to ensure brand consistency.
 
 | Mint + Navy logo—use for light bg | Mint + White logo—use for dark bg |
 | :-------------: |:-------------:|
 | ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintNavy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintWhite.png) |
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
+
+
+#### Logo Variations:
+These are the secondary logos that should be used if the Master logos do not work against the background. 
+
+| DNavy logo—use for light bg | White logo—use for dark bg |
+| :-------------: |:-------------:|
+| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintNavy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Logo-MintWhite.png) |
+| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
+
 
 
 #### Edge Mark:
