@@ -15,8 +15,7 @@ These are the primary logos that shuould be used across product and marketing. I
 
 | Use for light background | Use for dark background |
 | ------------- |:-------------:|
-| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)       | ![Master Logo White and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_DarkBg.png) | Download Hi-Res Logo |
-|    Download Hi-Res Logo   |       |
+| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)       | ![Master Logo White and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_DarkBg.png) | Download Hi-Res Logo | Download Hi-Res Logo   |
 
 
 Use Mint + Navy when used on white or light background:
