@@ -16,7 +16,7 @@ These are the primary logos that shuould be used across product and marketing. I
 | ------------- |:-------------:|
 | ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | ![Master Logo White and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_DarkBg.png) |
 | Download Hi-Res Logo | Download Hi-Res Logo |
-| zebra stripes | are neat      |
+
 
 
 | Use for light background | Use for dark background |
