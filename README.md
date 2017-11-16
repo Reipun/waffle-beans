@@ -51,6 +51,12 @@ Use secondary logos if primary logos are over background colors that clash.
 
 Secondary Palette:
 
+| Accent Blue | Accent Orange | Accent Red |
+|-------------|-------------|-------------|
+| ![Edge Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_navy.png) | ![Edge Mint](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_mint.png) | ![Edge Blue](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_blue.png)| 
+| HEX: 0073D9 | HEX: F1AA19 | HEX: E85466 |
+| CMYK: 82 54 0 0 | CMYK: 4 36 100 0 | CMYK: 4 82 50 0 |
+| RGB: 0 115 217 | RGB: 241 170 25 | RGB: 232 84 102 |
 
 Grays:
 
