@@ -13,9 +13,7 @@
 These are the primary logos that shuould be used across product and marketing. If not possible due to background colors or other reasons, one of the other logo variations below should be used to ensure brand consistency.
 
 Use Mint + Navy when used on white or light background:
-# ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)
-
-Use Mint + White when used on dark background:
+# ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) Use Mint + White when used on dark background:
 # ![Master Logo White and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_DarkBg.png)
 
 
