@@ -49,7 +49,18 @@ Use secondary logos if primary logos are over background colors that clash.
 | CMYK: 100 89 42 46 | CMYK: 50 0 50 0 | CMYK: 98 73 31 15 |
 | RGB: 13 33 69 | RGB: 102 237 168 | RGB: 14 75 117 |
 
-Secondary Palette:
+
+### Secondary Palette:
+
+| Accent Blue | Accent Orange | Accent Red |
+|-------------|-------------|-------------|
+| ![Accent Blue](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_accent_blue.png) | ![Accent Orange](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_accent_orange.png) | ![Accent Red](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_accent_red.png)| 
+| HEX: 0073D9 | HEX: F1AA19 | HEX: E85466 |
+| CMYK: 82 54 0 0 | CMYK: 4 36 100 0 | CMYK: 4 82 50 0 |
+| RGB: 0 115 217 | RGB: 241 170 25 | RGB: 232 84 102 |
+
+
+### Grays:
 
 | Accent Blue | Accent Orange | Accent Red |
 |-------------|-------------|-------------|
@@ -58,7 +69,6 @@ Secondary Palette:
 | CMYK: 82 54 0 0 | CMYK: 4 36 100 0 | CMYK: 4 82 50 0 |
 | RGB: 0 115 217 | RGB: 241 170 25 | RGB: 232 84 102 |
 
-Grays:
 
 
 Color use:
