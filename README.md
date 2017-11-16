@@ -62,12 +62,12 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Grays:
 
-| Accent Blue | Accent Orange | Accent Red |
-|-------------|-------------|-------------|
-| ![Edge Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_navy.png) | ![Edge Mint](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_mint.png) | ![Edge Blue](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_blue.png)| 
-| HEX: 0073D9 | HEX: F1AA19 | HEX: E85466 |
-| CMYK: 82 54 0 0 | CMYK: 4 36 100 0 | CMYK: 4 82 50 0 |
-| RGB: 0 115 217 | RGB: 241 170 25 | RGB: 232 84 102 |
+| Gray01 | Gray02 | Gray03 | Gray04 |
+|-------------|-------------|-------------|-------------|
+| ![Gray01](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_gray01.png) | ![Gray02](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_gray02.png) | ![Gray03](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_gray03.png)| ![Gray04](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_gray04.png)|
+| HEX: 4A5157 | HEX: 87939E | HEX: D9E3ED | HEX: F4F5F6 |
+| CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | CMYK: 13 6 3 0 | CMYK: 3 2 2 0 |
+| RGB: 74 81 87 | RGB: 135 148 158 | RGB: 217 227 237 | RGB: 96 245 246 |
 
 
 
