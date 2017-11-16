@@ -1,4 +1,4 @@
-# Edge Brand Guide
+# Edge Brand Guide and Assets
 
 ### Table of Contents
 1. [Logo](#logo)
@@ -26,7 +26,6 @@ These are the secondary logos that should be used if the Master logos do not wor
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 
-
 #### Edge Mark:
 
 | Mint | Navy | White |
@@ -34,9 +33,7 @@ These are the secondary logos that should be used if the Master logos do not wor
 | ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Mark-Mint.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White-.png)
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
-
-
-#### Edge Logo Variations:
+#### Edge App Icon:
 
 
 ## Colors
