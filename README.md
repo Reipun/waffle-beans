@@ -23,7 +23,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | Navy | White |
 | :-------------: |:-------------:|
 | ![Secondary Logo Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-Navy.png) | ![Secondary Logo Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-White.png) |
-| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
+| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 
 #### Edge Mark:
