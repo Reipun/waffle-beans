@@ -20,10 +20,10 @@ Use Mint + White when used on dark background:
 
 
 
-| For light background        | For dark background           | Cool  |
+| Use for light background        | Use for dark background           | Cool  |
 | ------------- |:-------------:| -----:|
-| # ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)       | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)       | right-aligned | $1600 |
+| ![Master Logo White and Navy](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_DarkBg.png)      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 
