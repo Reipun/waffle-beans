@@ -1,4 +1,4 @@
-# ![Edge Mark](https://raw.githubusercontent.com/Reipun/waffle-beans/master/Edge-Final-Logo_Logo-GreeneandNavy.png) Edge Brand Guide
+# Edge Brand Guide
 
 ### Table of Contents
 1. [Logo](#logo)
@@ -10,6 +10,8 @@
 ## Logo
 
 Edge Master Logo:
+These are the primary logos that shuould be used across product and marketing. If not possible due to background colors or other reasons, one of the other logo variations below should be used to ensure brand consistency.
+
 
 
 Edge Mark:
