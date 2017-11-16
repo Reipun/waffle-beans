@@ -43,7 +43,7 @@ Use secondary logos if primary logos are over background colors that clash.
 ### Primary Palette:
 
 | Edge Navy | Edge Mint | Edge Blue |
-| :-------------: |:-------------:|:-------------:|
+|-------------|-------------|-------------|
 |  |  | | 
 | HEX: 0D2145 | HEX: 66EDA8 | HEX: 0E4B75 |
 | CMYK: 100 89 42 46 | CMYK: 50 0 50 0 | CMYK: 98 73 31 15 |
