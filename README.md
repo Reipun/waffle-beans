@@ -9,7 +9,7 @@
 
 ## Logo
 
-### Edge Master Logo:
+#### Edge Master Logo:
 These are the primary logos that shuould be used across product and marketing. If not possible due to background colors or other reasons, one of the other logo variations below should be used to ensure brand consistency.
 
 | Mint + Navy logo—use for light bg | Mint + White logo—use for dark bg |
@@ -18,10 +18,10 @@ These are the primary logos that shuould be used across product and marketing. I
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 
-Edge Mark:
+#### Edge Mark:
 
 
-Edge Logo Variations:
+#### Edge Logo Variations:
 
 
 ## Colors
