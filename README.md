@@ -35,7 +35,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ### Edge App Icon:
 
-![Edge App Icon](https://github.com/Reipun/waffle-beans/blob/master/Edge_app_icon_android_base.png)
+![Edge App Icon](https://github.com/Reipun/waffle-beans/blob/master/Edge_app_icon.png)
 
 
 ## Colors
