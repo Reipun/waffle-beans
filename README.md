@@ -77,7 +77,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 | Login | Gray02 | Gray03 | Gray04 |
 |-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png) | ![Gray02](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_gray02.png) | ![Gray03](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_gray03.png)| ![Gray04](https://github.com/Reipun/waffle-beans/blob/master/Edge_color_gray04.png)|
+| ![Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png) | ![Gray02](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png) | ![Gray03](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png)| ![Gray04](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png)|
 | HEX: 4A5157 | HEX: 87939E | HEX: D9E3ED | HEX: F4F5F6 |
 | CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | CMYK: 13 6 3 0 | CMYK: 3 2 2 0 |
 | RGB: 74 81 87 | RGB: 135 148 158 | RGB: 217 227 237 | RGB: 96 245 246 |
