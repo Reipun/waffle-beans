@@ -74,7 +74,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 
 ## Screenshots
-
+![Gray01](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png)
 ## banners
 
 ## People
