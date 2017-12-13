@@ -88,9 +88,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | Banner1 | Banner2 | 
 |-------------|-------------|
 | ![Banner 1](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_bg.png) | ![Banner 2](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_long.png) |
-| HEX: 4A5157 | HEX: 87939E | 
-| CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | 
-| RGB: 74 81 87 | RGB: 135 148 158 | 
+| Doanload High-res | Download high-res | 
 
 
 ## People
