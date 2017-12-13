@@ -18,8 +18,6 @@ These are the primary logo variations that should be used across product and mar
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
 <br/>
-<br/>
-
 
 ### Edge Secondary Logo:
 Use secondary logos if primary logos are over background colors that clash. 
@@ -29,6 +27,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | ![Secondary Logo Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-Navy.png) | ![Secondary Logo Navy](https://github.com/Reipun/waffle-beans/blob/master/Logo-White.png) |
 | [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Logo](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
+<br/>
 
 ### Edge Mark:
 
@@ -37,10 +36,14 @@ Use secondary logos if primary logos are over background colors that clash.
 | ![Master Logo Mint and Navy](https://github.com/Reipun/waffle-beans/blob/master/Mark-Mint.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-Navy.png) | ![Master Logo Mint and White](https://github.com/Reipun/waffle-beans/blob/master/Mark-White.png)
 | [Download Hi-Res Mark](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Mark](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)| [Download Hi-Res Mark](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png)|
 
+<br/>
+
 ### Edge App Icon:
 
 ![Edge App Icon](https://github.com/Reipun/waffle-beans/blob/master/Edge_app_icon.png)
 
+<br/>
+<br/>
 
 ## Colors
 
@@ -53,6 +56,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | CMYK: 100 89 42 46 | CMYK: 50 0 50 0 | CMYK: 98 73 31 15 |
 | RGB: 13 33 69 | RGB: 102 237 168 | RGB: 14 75 117 |
 
+<br/>
 
 ### Secondary Palette:
 
@@ -63,6 +67,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | CMYK: 82 54 0 0 | CMYK: 4 36 100 0 | CMYK: 4 82 50 0 |
 | RGB: 0 115 217 | RGB: 241 170 25 | RGB: 232 84 102 |
 
+<br/>
 
 ### Grays:
 
@@ -73,7 +78,8 @@ Use secondary logos if primary logos are over background colors that clash.
 | CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | CMYK: 13 6 3 0 | CMYK: 3 2 2 0 |
 | RGB: 74 81 87 | RGB: 135 148 158 | RGB: 217 227 237 | RGB: 96 245 246 |
 
-
+<br/>
+<br/>
 
 ## Screenshots
 
@@ -82,6 +88,8 @@ Use secondary logos if primary logos are over background colors that clash.
 | ![Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_login.png) | ![Wallets](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_wallets.png) | ![Request](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_request.png)| ![Edge Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_edgelogin.png)|
 | [Download Hi-Res Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_edgelogin.png) |
 
+<br/>
+<br/>
 
 ## Banners
 
@@ -90,7 +98,8 @@ Use secondary logos if primary logos are over background colors that clash.
 | ![Banner 1](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_bg.png) | ![Banner 2](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_long.png) |
 | [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | 
 
-
+<br/>
+<br/>
 
 ## Social Links
 Website: https://edgesecure.co<br/> 
