@@ -5,8 +5,7 @@
 2. [Colors](#colors)
 3. [Screenshots](#screenshots)
 4. [Banners](#banners)
-5. [People](#people)
-6. [Edge Social Links](#edge-social-links)
+5. [Edge Social Links](#edge-social-links)
 
 ## Logo
 
@@ -81,7 +80,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | [Download Hi-Res Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_edgelogin.png) |
 
 
-## banners
+## Banners
 
 | Banner1 | Banner2 | 
 |-------------|-------------|
@@ -89,10 +88,15 @@ Use secondary logos if primary logos are over background colors that clash.
 | [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | 
 
 
-## People
-#### People at Edge:
 
 ## Edge Social Links
+Website: https://edgesecure.co
+Twitter: https://twitter.com/EdgeSecure
+Facebook: https://www.facebook.com/EdgeSec
+LinkedIn: https://www.linkedin.com/company/3609678
+Instagram: https://www.instagram.com/Edge_Secure_
+Angellist: https://angel.co/edgesecure
+
 
 
 
