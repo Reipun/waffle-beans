@@ -19,7 +19,8 @@ These are the primary logo variations that should be used across product and mar
 
 <br/>
 <br/>
-<br/>
+
+
 ### Edge Secondary Logo:
 Use secondary logos if primary logos are over background colors that clash. 
 
