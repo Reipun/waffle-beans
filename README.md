@@ -88,7 +88,7 @@ Use secondary logos if primary logos are over background colors that clash.
 | Banner1 | Banner2 | 
 |-------------|-------------|
 | ![Banner 1](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_bg.png) | ![Banner 2](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_long.png) |
-| Doanload High-res | Download high-res | 
+| [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | [Download Hi-Res Banner1](https://github.com/Reipun/waffle-beans/blob/master/Edge_MasterLogo_LightBg.png) | 
 
 
 ## People
