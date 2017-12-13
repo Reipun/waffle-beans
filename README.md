@@ -82,7 +82,16 @@ Use secondary logos if primary logos are over background colors that clash.
 | CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | CMYK: 13 6 3 0 | CMYK: 3 2 2 0 |
 | RGB: 74 81 87 | RGB: 135 148 158 | RGB: 217 227 237 | RGB: 96 245 246 |
 ![Gray01]()
+
 ## banners
+
+| Banner1 | Banner2 | 
+|-------------|-------------|
+| ![Banner 1](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_bg.png) | ![Banner 2](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/banners/Edge_banner_long.png) |
+| HEX: 4A5157 | HEX: 87939E | 
+| CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | 
+| RGB: 74 81 87 | RGB: 135 148 158 | 
+
 
 ## People
 #### People at Edge:
