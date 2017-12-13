@@ -90,11 +90,11 @@ Use secondary logos if primary logos are over background colors that clash.
 
 
 ## Edge Social Links
-Website: https://edgesecure.co <br/> 
-Twitter: https://twitter.com/EdgeSecure
-Facebook: https://www.facebook.com/EdgeSec
-LinkedIn: https://www.linkedin.com/company/3609678
-Instagram: https://www.instagram.com/Edge_Secure_
+Website: https://edgesecure.co<br/> 
+Twitter: https://twitter.com/EdgeSecure<br/>
+Facebook: https://www.facebook.com/EdgeSec<br/>
+LinkedIn: https://www.linkedin.com/company/3609678<br/>
+Instagram: https://www.instagram.com/Edge_Secure_<br/>
 Angellist: https://angel.co/edgesecure
 
 
