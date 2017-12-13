@@ -89,7 +89,7 @@ Use secondary logos if primary logos are over background colors that clash.
 
 
 
-## Edge Social Links
+## Social Links
 Website: https://edgesecure.co<br/> 
 Twitter: https://twitter.com/EdgeSecure<br/>
 Facebook: https://www.facebook.com/EdgeSec<br/>
