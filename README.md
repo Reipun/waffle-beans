@@ -75,13 +75,11 @@ Use secondary logos if primary logos are over background colors that clash.
 
 ## Screenshots
 
-| Login | Gray02 | Gray03 | Gray04 |
+| Login | Wallets | Request | Edge Login |
 |-------------|-------------|-------------|-------------|
-| ![Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png) | ![Gray02](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png) | ![Gray03](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png)| ![Gray04](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_app_login.png)|
-| HEX: 4A5157 | HEX: 87939E | HEX: D9E3ED | HEX: F4F5F6 |
-| CMYK: 70 58 51 32 | CMYK: 51 35 31 1 | CMYK: 13 6 3 0 | CMYK: 3 2 2 0 |
-| RGB: 74 81 87 | RGB: 135 148 158 | RGB: 217 227 237 | RGB: 96 245 246 |
-![Gray01]()
+| ![Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_login.png) | ![Wallets](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_wallets.png) | ![Request](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_request.png)| ![Edge Login](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_edgelogin.png)|
+| [Download Hi-Res Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_login.png) | [Download Hi-Res Wallets Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_wallets.png) | [Download Hi-Res Request Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_request.png) | [Download Hi-Res Edge Login Screenshot](https://github.com/Reipun/waffle-beans/blob/master/Visual%20Assets/Screenshots/Edge_screenshot_edgelogin.png) |
+
 
 ## banners
 
