@@ -1,11 +1,16 @@
 # Edge Brand Guide and Assets
 
+<br/>
+
 ### Table of Contents
 1. [Logo](#logo)
 2. [Colors](#colors)
 3. [Screenshots](#screenshots)
 4. [Banners](#banners)
 5. [Edge Social Links](#edge-social-links)
+
+<br/>
+<br/>
 
 ## Logo
 
